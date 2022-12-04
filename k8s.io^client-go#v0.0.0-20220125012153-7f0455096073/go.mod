@@ -1,0 +1,5 @@
+module k8s.io/client-go-v0.0.0-20220125012153-7f0455096073
+
+go 1.17
+
+require k8s.io/client-go v0.0.0-20220125012153-7f0455096073
